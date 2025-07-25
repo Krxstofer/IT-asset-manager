@@ -7,4 +7,9 @@
         <RootNamespace>IT_asset_manager</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="IT-asset-manager.API\" />
+      <Folder Include="IT-asset-manager.Client\" />
+    </ItemGroup>
+
 </Project>
