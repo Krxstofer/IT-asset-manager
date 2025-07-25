@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT-asset-manager", "IT-asset-manager\IT-asset-manager.csproj", "{70BD6E77-81CE-442F-A1B9-03305F04987B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70BD6E77-81CE-442F-A1B9-03305F04987B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BD6E77-81CE-442F-A1B9-03305F04987B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BD6E77-81CE-442F-A1B9-03305F04987B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BD6E77-81CE-442F-A1B9-03305F04987B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
